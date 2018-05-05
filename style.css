@@ -1,0 +1,27 @@
+.div{
+	padding: 0px;
+	width: 499px;
+	min-height: 161px;
+	border: 3px solid  black;
+	 
+}
+
+textarea {
+	resize: none;
+	border: 3px solid  black;
+}
+hr{
+
+	width: 600px;
+	border-color: black;
+	border-width: 1px;
+
+}
+.main {
+ border: 3px solid  black;
+ width: 666px;
+ background-color: #999999;
+ float :left;
+ margin: 20px;
+ padding: 5px;
+}
